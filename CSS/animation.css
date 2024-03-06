@@ -1,0 +1,21 @@
+#emre {
+    
+  
+  opacity: 0.6;
+  transition: 0.3s;
+
+}
+#emre:hover {
+    opacity: 1;
+}
+tr{
+  
+  opacity: 0.6;
+  transition: 0.3s;
+}
+tr:hover {
+  background-color: green;
+  opacity: 1.5;
+}
+
+
