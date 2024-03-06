@@ -1,0 +1,40 @@
+form {
+
+   border-width: 2px;
+   border-style: solid;
+   background-color:aliceblue;
+   text-align: center;
+   margin-left: 600px;
+   margin-right: 600px;
+
+}
+#emre {
+    background-color:green;
+    border: none;
+    color: white;
+    padding: 8px 80px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    
+}
+h2{
+    text-align: center;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+
+}
+ td{
+    border: 2px solid black;
+    
+}
+#a1,#a2,#a3,#a4 {
+    background-color: beige;
+}
+#b1,#b2,#b3,#b4 {
+    background-color: aliceblue;
+}
+
+
