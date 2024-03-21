@@ -1,0 +1,517 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RazorPagesMovie.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RazorPagesMovie.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\feature.jpg",
+      "PackagePath": "staticwebassets\\img\\feature.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\icon\\icon-1.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon-1.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\icon\\icon-10.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon-10.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\icon\\icon-2.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon-2.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\icon\\icon-3.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon-3.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\icon\\icon-4.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon-4.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\icon\\icon-5.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon-5.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\icon\\icon-6.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon-6.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\icon\\icon-7.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon-7.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\icon\\icon-8.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon-8.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\icon\\icon-9.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon-9.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-2.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-3.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-4.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-5.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-6.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\quote.jpg",
+      "PackagePath": "staticwebassets\\img\\quote.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\isotope\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\lib\\isotope\\isotope.pkgd.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\lightbox\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\lightbox\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\lightbox\\links.php",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\links.php"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RazorPagesMovie.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RazorPagesMovie.props",
+      "PackagePath": "build\\RazorPagesMovie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RazorPagesMovie.props",
+      "PackagePath": "buildMultiTargeting\\RazorPagesMovie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RazorPagesMovie.props",
+      "PackagePath": "buildTransitive\\RazorPagesMovie.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
