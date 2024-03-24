@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\Ceng382_23_24_s_202011025\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"

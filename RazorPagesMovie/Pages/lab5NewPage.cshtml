@@ -3,5 +3,52 @@
 @{
 
 }
+<script src="js\lab5js.js"></script>
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+    .mavi-kutu {
+  background-color: rgb(167, 225, 186);
+  color: rgb(37, 93, 57);
+  padding: 20px; 
+  text-align: center; 
+  width: 200px; 
+  margin: auto; 
+  display: none;
+  border-radius: 20px;
+}
+.button {
+    background-color: rgb(14, 117, 208);
+    border-radius: 20px;
+    width: 170px;
+    padding: 10px;
+}
+    
+    .center {
+ 
+  text-align: center;
+  }
+  
+</style>
+    </head>
+<body>
 
-<h1> Emreeeeee </h1>
+<div class="center">
+   
+  <p><h2>Addition Form</h2> </p>
+  <a>Enter first number:</a><br> <br>
+  <input id="sayi1" type="number"> <br>
+  <br><a>Enter  second number:</a><br> <br>
+  <input id="sayi2" type="number"> <br> <br>
+  <button class="button" onclick="toplamGoster()">Calculate Sum</button> <br> <br>
+  <div id="toplamKutu" class="mavi-kutu"></div> 
+
+  
+  
+</div>
+
+
+
+</body>
+</html>
