@@ -45,13 +45,62 @@ public class RoomData
 public class Room
 {
     [JsonPropertyName("roomId")]
-    public string RoomId {get; set;}
+    public string RoomId { get; set; }
 
     [JsonPropertyName("roomName")]
-    public string RoomName {get; set;}
+    public string RoomName { get; set; }
 
     [JsonPropertyName("capacity")]
-    public int Capacity{get; set;}
+    public int Capacity { get; set; }
+
+    // Yapıcı fonksiyon
+    public Room(string roomId, string roomName, int capacity)
+    {
+        RoomId = roomId;
+        RoomName = roomName;
+        Capacity = capacity;
+
+        // ValidateRoom metodunu try-catch bloğu içinde çağır
+        try
+        {
+            ValidateRoom();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Hata: " + ex.Message);
+        }
+    }
+
+    // Oda bilgilerini doğrulama metodu
+    private void ValidateRoom()
+    {
+        var validRooms = new Dictionary<string, (string roomName, int capacity)>
+        {
+            {"001", ("A-101", 30)},
+            {"002", ("A-102", 24)},
+            {"003", ("A-103", 26)},
+            {"001", ("A-104", 28)},
+            {"002", ("A-105", 30)},
+            {"003", ("A-106", 32)},
+            {"001", ("A-107", 34)},
+            {"002", ("A-108", 36)},
+            {"003", ("A-109", 38)},
+            {"001", ("A-110", 40)},
+            {"002", ("A-111", 42)},
+            {"003", ("A-112", 44)},
+            {"001", ("A-113", 46)},
+            {"002", ("A-114", 48)},
+            {"003", ("A-115", 50)},
+            {"016", ("A-116", 52)}
+        };
+
+        if (!validRooms.ContainsKey(RoomId) ||
+            validRooms[RoomId].roomName != RoomName ||
+            validRooms[RoomId].capacity != Capacity)
+        {
+            throw new InvalidOperationException("Oda bilgileri geçersiz.");
+        }
+    }
 }
 public class ReservationHandler
 {
@@ -68,6 +117,7 @@ public class ReservationHandler
             Console.WriteLine("Bir hata oluştu: " + ex.Message);
         }
     }
+
     public void DeleteReservation(Reservation reservation)
     {
         try
@@ -86,7 +136,7 @@ public class ReservationHandler
         {
             foreach (var reservation in reservations)
             {
-                Console.WriteLine("Reservation Time: {0}, Date: {1}, Reserver Name: {2}, Room: {3}",
+                Console.WriteLine("Reservation Time: {0}, Date: {1}, Reserver Name: {2}, Room: {3}", 
                     reservation.Time, reservation.Date, reservation.ReserverName, reservation.Room.RoomName);
             }
         }
@@ -125,8 +175,6 @@ public class Reservation
 }
 
 
-
-
 class Program
 {
     static void Main()
@@ -137,10 +185,9 @@ class Program
         Person person3 = new Person("Mehmet", "Çelik", 40);
 
         // Oda bilgilerini oluştur
-        Room room1 = new Room { RoomId = "101", RoomName = "Toplantı Odası 1", Capacity = 15 };
-        Room room2 = new Room { RoomId = "102", RoomName = "Toplantı Odası 2", Capacity = 20 };
-        Room room3 = new Room { RoomId = "103", RoomName = "Toplantı Odası 3", Capacity = 10 };
-
+        Room room1 = new Room("001", "A-101", 30);
+        Room room2 = new Room("002", "A-102", 24);
+        Room room3 = new Room("003", "A-103", 26);
         // Rezervasyonları oluştur
         Reservation reservation1 = new Reservation(DateTime.Now.AddHours(2), DateTime.Today, person1, room1);
         Reservation reservation2 = new Reservation(DateTime.Now.AddHours(4), DateTime.Today, person2, room2);
